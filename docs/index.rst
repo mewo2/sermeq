@@ -1,0 +1,4 @@
+Sermeq Documentation
+====================
+
+.. automodule:: sermeq
